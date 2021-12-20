@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/smh50/AndroidStudioProjects/SimpleWebBrowser/app/src/main/res/drawable/ic_home.xml" value="0.3074074074074074" />
+        <entry key="..\:/Users/smh50/AndroidStudioProjects/SimpleWebBrowser/app/src/main/res/drawable/shape_address_bar.xml" value="0.3074074074074074" />
         <entry key="..\:/Users/smh50/AndroidStudioProjects/SimpleWebBrowser/app/src/main/res/layout/activity_main.xml" value="0.3302083333333333" />
       </map>
     </option>
